@@ -11,7 +11,6 @@
 <h3 align="center">
 	<a href="studentMyBooks.jsp" target="body">MY BOOKS</a><br/><br/>
 	<a href="studentMyFine.jsp" target="body">MY FINE</a><br/><br/>
-	<a href="studentMyBooks.jsp" target="body">AVAILABLE BOOKS</a><br/><br/>
 	<a href="studentSubmitBook.jsp" target="body">SUBMIT BOOKS</a><br/><br/>	
 	<a href="index.jsp" target="_blank">LOGOUT</a><br/><br/>	
 </h3>
