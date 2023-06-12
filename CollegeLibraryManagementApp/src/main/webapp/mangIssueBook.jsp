@@ -7,6 +7,7 @@
 <title>Issue Book Page</title>
 </head>
 <body bgcolor="lightblue">
+<br/> <br/><br/>
 	<h1 style="color: rgb(128, 0, 0); text-align: center">ISSUE BOOK TO STUDENT</h1>
 	<form action="./controller/mangissuebookstud" method="post">
 
